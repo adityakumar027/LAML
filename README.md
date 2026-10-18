@@ -1,4 +1,4 @@
-# LAML v4.0.0 — C++20 Next-Generation Runtime
+# LAML v4.0.0 - C++20 Next-Generation Runtime
 
 LAML (Low Abstraction Machine Language) is a minimal scripting language implemented in C++20 with an LLVM backend, checked arithmetic, first-class functions, and OS-thread concurrency.
 
@@ -84,6 +84,11 @@ LAML/
 
 ## Learn More
 
-- [LAML-NG-GUIDE.md](LAML-NG-GUIDE.md) — Complete language reference
-- [Learn](https://naveensingh9999.github.io/LAML/learn.html) — Interactive tutorial
-- [GitHub](https://github.com/NaveenSingh9999/LAML) — Source code
+- [LAML-NG-GUIDE.md](LAML-NG-GUIDE.md) - Complete language reference
+- [Learn](https://naveensingh9999.github.io/LAML/learn.html) - Interactive tutorial
+- [GitHub](https://github.com/NaveenSingh9999/LAML) - Source code
+
+
+## Notes for this checkout
+
+This checkout is available at `adityakumar027/LAML`. Existing upstream documentation links and attribution are preserved. The bundled binary is architecture-specific; build from the C++ source for other targets. Performance comparisons require a published benchmark and matching hardware; no speedup claim is verified by this documentation pass.
